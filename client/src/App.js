@@ -19,6 +19,7 @@ function App() {
         </a>
         <h1>react</h1>
         <p>Ashik</p>
+        <h1>Tanzid</h1>
         <p>Tanzid</p>
       </header>
     </div>
